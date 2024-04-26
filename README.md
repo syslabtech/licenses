@@ -1,0 +1,2 @@
+# licenses
+All Software Licenses
